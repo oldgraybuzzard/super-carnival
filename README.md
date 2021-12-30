@@ -21,21 +21,24 @@ Node.JS, NPM, express, mongoose, morgan, compression, web app manifest, indexed 
 ```
 
 ## Links
-[Heroku Deployment](https://dashboard.heroku.com/apps/)
+[Heroku Deployment](https://stormy-bayou-15795.herokuapp.com/)
 [Github Link](https://github.com/oldgraybuzzard/super-carnival.git)
 
 ## Usage 🏆
 ### Screenshots:
-
+* [Homepage](./readme_assets/homepage.png)
+* [Offline Transaction](./readme_assets/offline_transaction.png)
+* [Offline Upload](./readme_assets/offline_upload.png)
+* [Manifest](./readme_assets/manifest.png)
+* [Service Worker](./readme_assets/service_worker.png)
 
 
 ## Contributors 😃
 [oldgraybuzzard](https://github.com/oldgraybuzzard)
 * Contact me at k_felder@me.com
 
-
 ## Features
 None 
 
 ## Tests 🧪
-
+None
