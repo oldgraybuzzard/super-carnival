@@ -21,8 +21,8 @@ Node.JS, NPM, express, mongoose, morgan, compression, web app manifest, indexed 
 ```
 
 ## Links
-[Heroku Deployment](https://stormy-bayou-15795.herokuapp.com/)
-[Github Link](https://github.com/oldgraybuzzard/super-carnival.git)
+* [Heroku Deployment](https://stormy-bayou-15795.herokuapp.com/)
+* [Github Link](https://github.com/oldgraybuzzard/super-carnival.git)
 
 ## Usage 🏆
 ### Screenshots:
@@ -41,4 +41,4 @@ Node.JS, NPM, express, mongoose, morgan, compression, web app manifest, indexed 
 None 
 
 ## Tests 🧪
-None
+To test the offline functionality, while in the applicaiton use the Developer Tools feature of your browser and use option to disconnect the browser from the network connection. Enter the data as desired. Reset the network connection to online and validate that you receive a message indicating that the offline data has been uploaded.
